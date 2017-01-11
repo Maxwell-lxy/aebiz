@@ -21,7 +21,7 @@ import java.util.ArrayList;
 
 /**
  * Created by wangfei on 16/11/9.
- * 官方提供
+ * 官方提供 lxy
  */
 public class AuthActivity extends Activity{
     private ListView listView;
